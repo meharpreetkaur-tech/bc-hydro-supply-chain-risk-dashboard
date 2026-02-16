@@ -1,16 +1,14 @@
 # BC Hydro Supply Chain Risk Dashboard (Hackathon MVP)
 
 ## Overview  
-This project presents a supply chain vulnerability dashboard developed for a BC Hydro category management case study. The goal is to identify procurement categories most sensitive to disruption from long lead times, low inventory buffers, supplier performance risk, and tariff exposure.
+This dashboard was built for a beedie buainess analytics hackathon as an internship-level analytical prototype using available category-level procurement and supply chain data. The goal is to identify categories most vulnerable to operational disruption due to long supplier lead times, limited inventory buffers, variable vendor performance, and exposure to external tariff risk.
+
+This prioritization tool is not a predictive model. Rather, it is a structured framework designed to surface where supply chain resources and mitigation efforts should be focused first.
 
 ---
 
 ## Data Scope  
-This MVP evaluates **15 high-priority, low-risk-tolerance procurement categories**, representing approximately **$605M in annual spend**.
-
-> Note: This is a focused subset of BC Hydro’s broader ~$2B+ procurement portfolio.
-
----
+This MVP focuses on a high-priority subset of procurement categories (~$605M annual spend), selected based on risk tolerance and operational impact. Categories with missing or incomplete operational data (e.g., unavailable lead times) are excluded from the vulnerability ranking.
 
 ## Vulnerability Scoring Framework  
 A composite vulnerability score (0–100) was developed:

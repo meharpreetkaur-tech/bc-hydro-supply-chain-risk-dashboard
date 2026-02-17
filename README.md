@@ -25,17 +25,19 @@ Higher scores indicate greater disruption vulnerability.
 
 ## Dashboard Preview  
 
+## Dashboard Preview  
+
 ### Portfolio Overview  
-![Portfolio](screenshots/portfolio-overview.png)
+![Portfolio Overview](https://raw.githubusercontent.com/meharpreetkaur-tech/bc-hydro-supply-chain-risk-dashboard/main/screenshots/portfolio-overview.png)
 
 ### Lead Time vs Inventory Buffer  
-![LeadTime](screenshots/lead-time-analysis.png)
+![Lead Time Analysis](https://raw.githubusercontent.com/meharpreetkaur-tech/bc-hydro-supply-chain-risk-dashboard/main/screenshots/lead-time-analysis.png)
 
 ### Tariff Exposure Scenario  
-![Tariff](screenshots/tariff-exposure.png)
+![Tariff Exposure](https://raw.githubusercontent.com/meharpreetkaur-tech/bc-hydro-supply-chain-risk-dashboard/main/screenshots/tariff-exposure.png)
 
 ### Executive Summary  
-![Summary](screenshots/executive-summary.png)
+![Executive Summary](https://raw.githubusercontent.com/meharpreetkaur-tech/bc-hydro-supply-chain-risk-dashboard/main/screenshots/executive-summary.png)
 
 ---
 
